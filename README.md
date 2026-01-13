@@ -50,13 +50,6 @@ O site foi criado como se fosse de uma confeitaria real, com **imagens atrativas
 
 ---
 
-## 🧁 Cardápio em Destaque
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?q=80&w=500&auto=format&fit=crop" width="45%" />
-<img src="https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=500&auto=format&fit=crop" width="45%" />
-
 </div>
 
 > Cada seção do site foi pensada para valorizar os produtos e incentivar o cliente a escolher seu doce favorito.
